@@ -1,0 +1,15 @@
+import math
+class point:
+    def __init__(self,x,y):
+        self.x=x
+        self.y=y
+    def dis(self,otherpoint):
+        return math.sqrt((self.x-otherpoint.x)**2 + (self.y-otherpoint.y)**2)
+x1=int(input("enter the x codinate of first point"))
+x2=int(input("enter the x cordinate of second point"))
+y1=int(input("enter the y cordinate of first point"))
+y2=int(input("enter the y cordinate of second point"))
+point1=point(x1,y1)
+point2=point(x2,y2)
+distance=point1.dis(point2)
+print(distance)

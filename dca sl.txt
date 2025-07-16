@@ -1,0 +1,81 @@
+GK
+
+arjun  AI 2
+Ajith  AI 1
+ashlin MCA 2
+viswa  mca 1
+giri   AI 1
+manoj  AI 1
+
+
+
+DF
+
+sid pr           mca 1
+Dilshan          mca 2
+arjun k          mca 1
+rashid           ai 1
+hrejul           mca 1
+ashin            ai 2
+arun             ai 2
+vvk              mca 1
+dani             mca 1
+manjith          mca 1
+jithin           mca 1
+Sanjay           ds 1
+akshay raj       ai 1
+jithin unni      ai 1
+Anoop            ds 1
+sreehari         ai 1
+saketh           mca 2
+
+
+MF
+
+fithi            mca 2
+prajui           mca 2
+arju             mca 2
+ashique          mca 2
+sreekuttan       mca 2
+kiran            mca 2
+althaf           mca 2
+sidharth         ai 2
+shuhaib          mca 1
+sujil            mca 2
+sajir            mca 1
+anand krish      mca 2
+devan            ai 1
+Vishnu           ai 1
+Akhilesh         mca 1
+Naveen           ai 1
+Ajith            ai 1
+
+
+
+
+FW
+
+mani             mca 2
+arjun prasad     ds 1
+purushu          ds 2
+akash tomy       ai 2 
+antony           mca 2
+zayan            ds 1
+Savio            mca 1
+krithik          ds 1
+melwin           ds 1
+gourishankar     ai 1
+Rahul            ai 2
+misnad           ai 1
+Naveen           ds 2
+
+
+
+
+
+
+
+
+
+
+
